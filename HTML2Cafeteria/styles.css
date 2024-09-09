@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4e7d4;
+    color: #5a4636;}
+
+.header {
+    background-color: #8b5e3c;
+    color: white;
+    text-align: center;
+    padding: 50px 20px;}
+
+.menu, .ambiente, .localizacao, .contato {
+    padding: 20px;
+    text-align: center;}
+
+.menu ul {
+    list-style-type: none;
+    padding: 0;}
+
+.menu li {
+    padding: 10px;
+    font-size: 18px;}
+
+.ambiente img {
+    max-width: 100%;
+    height: auto;}
+
+.localizacao iframe {
+    border: 0;}
+
+.contato {
+    background-color: #8b5e3c;
+    color: white;
+    padding: 20px;}

@@ -1,0 +1,40 @@
+body {
+    font-family: 'Georgia', serif;
+    margin: 0;
+    padding: 0;
+    background-color: #ffffff;
+    color: #000000;}
+
+.header {
+    background-image: url('yoga-bg.jpg');
+    background-size: cover;
+    background-position: center;
+    color: rgba(0, 0, 0, 0.616);
+    text-align: center;
+    padding: 100px 20px;}
+
+.aulas, .depoimentos, .instrutores, .local, .contato {
+    padding: 20px;
+    text-align: center;}
+
+.aulas ul {
+    list-style-type: none;
+    padding: 0;}
+
+
+.aulas li {
+    padding: 10px;
+    font-size: 18px;}
+
+.depoimentos blockquote {
+    font-style: italic;
+    margin: 10px 0;}
+   
+.local {
+        background-color: #cccccc;
+        padding: 20px;}
+    
+
+.contato {
+    background-color: #cccccc;
+    padding: 20px;}
